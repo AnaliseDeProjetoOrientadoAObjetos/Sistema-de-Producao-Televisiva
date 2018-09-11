@@ -1,0 +1,26 @@
+Atores:
+
+1 - funcionario do RH
+
+2 - Produtor
+
+Casos de uso:
+
+1 - Verificação da verba da produção televisiva
+1 - Atualização da verba* (incluso)
+1 - Gerar relatório gastos
+1 - Cadastrar Obra
+1 - Cadastrar Produtor
+1 - Cadastrar funcionarios na obra
+1 - Cadastrar itens
+1 - Verificar informações de funcionarios
+
+2 - Escolher sequencia de Cenas
+2 - Gravar Cenas em midia
+2 - Procurar Cenas
+2 - Cadastrar ator na cena
+2 - Atualizar dados do ator na cena*
+2 - Cadastrar duble na cena
+2 - Atualizar dados de duble na cena*
+2 - Verificar qual duble substituiu o ator
+2 - Gerar relatório de funcionarios da Obra
