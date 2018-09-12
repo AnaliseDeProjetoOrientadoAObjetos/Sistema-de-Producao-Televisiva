@@ -1,2 +1,2 @@
-# Sistema-de-Produ-o-Televisiva
+# Sistema-de-Producao-Televisiva
 APOO - UFRN
