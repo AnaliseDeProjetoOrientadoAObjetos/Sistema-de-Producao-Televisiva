@@ -15,7 +15,9 @@ Casos de uso:
 - Gerar relatório gastos 							(ok)
 
 Ator: Produtor Assistente
+
 Casos de uso: 
+
 	- Cadastrar Obra 								(ok)
 	- Escolher sequencia de Cenas 					(ok)
 	- Armazenar Cenas 								(ok)
