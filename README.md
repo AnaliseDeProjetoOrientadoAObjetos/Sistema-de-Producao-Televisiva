@@ -18,17 +18,17 @@ Ator: Produtor Assistente
 
 Casos de uso: 
 
-	- Cadastrar Obra 								(ok)
-	- Escolher sequencia de Cenas 					(ok)
-	- Armazenar Cenas 								(ok)
-	- Procurar Cenas 								(ok)
-	- Cadastro de Atores 							(ok)
-		- Cadastrar ator na cena
-		- Atualizar dados do ator na cena*
-		- Cadastrar duble na cena
-		- Atualizar dados de duble na cena*
-	- Atualizar atores na cena 						(ok)
-	- Verificar informações da obra 				(ok)
-	- Gerar relatório de funcionarios da Obra 		(ok)
-	- Verificar informações da cena 				(ok)
-		- Verificar qual duble substituiu o ator
+   - Cadastrar Obra 								(ok)
+   - Escolher sequencia de Cenas 					(ok)
+   - Armazenar Cenas 								(ok)
+   - Procurar Cenas 								(ok)
+   - Cadastro de Atores 							(ok)
+      	- Cadastrar ator na cena
+	- Atualizar dados do ator na cena*
+	- Cadastrar duble na cena
+	- Atualizar dados de duble na cena*
+    - Atualizar atores na cena 						(ok)
+    - Verificar informações da obra 				(ok)
+    - Gerar relatório de funcionarios da Obra 		(ok)
+    - Verificar informações da cena 				(ok)
+	- Verificar qual duble substituiu o ator
