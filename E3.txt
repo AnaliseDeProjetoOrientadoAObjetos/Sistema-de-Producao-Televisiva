@@ -1,0 +1,16 @@
+GERENCIAMENTO DE OBRA
+- Cadastrar Obra:
+	Obra
+	Produtor
+	Duble
+	Ator
+	Diretor
+	Apoio
+	Assist. RH	
+
+
+- Verificar Info da Obra:
+
+GERENCIAMENTO FINANCEIRO E DE PESSOAS
+- Cadastrar funcionario na empresa:
+- Verificar verba:
