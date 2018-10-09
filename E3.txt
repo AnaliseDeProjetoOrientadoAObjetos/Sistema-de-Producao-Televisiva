@@ -24,7 +24,7 @@ GERENCIAMENTO FINANCEIRO E DE PESSOAS
 - Cadastrar funcionario na empresa:
 	Funcionario
 	Assist. RH 
-- Verificar Salários:
+- Gerar Relatorio de Salários:
 	Funcionario
 	Assist. RH 
 	Relatório
