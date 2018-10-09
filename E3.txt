@@ -6,11 +6,26 @@ GERENCIAMENTO DE OBRA
 	Ator
 	Diretor
 	Apoio
-	Assist. RH	
+	Assist. RH
+	Papel
 
 
 - Verificar Info da Obra:
+	Obra
+	Produtor
+	Duble
+	Ator
+	Diretor
+	Apoio
+	Assist. RH
+	Papel
 
 GERENCIAMENTO FINANCEIRO E DE PESSOAS
 - Cadastrar funcionario na empresa:
-- Verificar verba:
+	Funcionario
+	Assist. RH 
+- Verificar Salários:
+	Funcionario
+	Assist. RH 
+	Relatório
+	RelatórioSalario
