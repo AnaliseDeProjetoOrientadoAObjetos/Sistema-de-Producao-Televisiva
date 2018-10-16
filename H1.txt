@@ -1,0 +1,36 @@
+Edições
+Campeões
+Partidas
+Seleções
+Jogadores
+Estatisticas
+
+-------------------------------------------
+CADASTROS:
+
+Cadastrar edição
+Cadastrar campeões
+Cadastrar arbitro
+Cadastrar seleção
+Cadastrar jogadores
+Cadastrar partidas
+Cadastrar resultado de uma Partida
+Cadastrar estatística de uma partida
+Cadastrar estatística a um Jogador
+
+GERAR INFORMAÇÕES:
+
+Informar Campeões
+Gerar estatistística de uma edição
+Gerar estatistística de uma partida
+Gerar estatistística de uma seleção
+Gerar estatistística de um jogador
+Gerar tabela
+
+
+
+
+
+
+
+

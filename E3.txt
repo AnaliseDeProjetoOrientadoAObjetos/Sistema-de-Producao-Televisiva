@@ -1,4 +1,4 @@
-GERENCIAMENTO DE OBRA
+﻿GERENCIAMENTO DE OBRA
 - Cadastrar Obra:
 	Obra
 	Produtor
@@ -23,9 +23,31 @@ GERENCIAMENTO DE OBRA
 GERENCIAMENTO FINANCEIRO E DE PESSOAS
 - Cadastrar funcionario na empresa:
 	Funcionario
-	Assist. RH 
 - Gerar Relatorio de Salários:
 	Funcionario
 	Assist. RH 
 	Relatório
 	RelatórioSalario
+
+-----------------------------------------------
+
+Diagramas de sequência:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
